@@ -74,6 +74,6 @@ I’m a Computer Science graduate from Lahore College for Women University (LCWU
 
 📧 mahnoorshahid2410@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/mahnoorshahid2410/)  
-💻 [View Resume (PDF)](https://github.com/mahnoor2410)  
+💻 [View Resume (PDF)](https://github.com/mahnoor2410/My_CV/blob/main/Mahnoor_Shahid.pdf)  
 
 💡 *Open to internships, freelance roles, and full-time positions in Data Science, Deep Learning, and AI Engineering.*
