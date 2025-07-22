@@ -72,7 +72,7 @@ I’m a Computer Science graduate from Lahore College for Women University (LCWU
 | 🚗 **Car Price Prediction** | Regression-based ML model for car price estimation. | Python, Scikit-learn |
 | 💼 **JobTechPort** | AI-Based Job Portal for Resume Screening & Applications. | Django, Gemini AI, SMTP |
 | 🐱🐶 **Smart Pet Classifier** | TensorFlow model with augmentation, metrics & CSV export. | TensorFlow, Keras |
-| 📄 **IntelliDoc QA System** | RAG-Based Multi-PDF QA Chatbot with chu | Python, Gradio, LangChain, Gemini, Flask |
+| 📄 **IntelliDoc QA System** | Multi-PDF Q&A chatbot with metadata, source citations, and chunk visualization. | Python, Gradio, LangChain, Gemini, Flask |
 | 📧 **Spam Email Classifier** | Used TF-IDF and feature selection to classify emails using Naive Bayes & Decision Trees. | Python, Scikit-learn |
 | 🏘️ **Real Estate Web App** | Modern responsive frontend using React & Tailwind CSS for property listings. | React, Tailwind CSS |
 
